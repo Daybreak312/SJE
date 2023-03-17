@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55dad819-4a20-43d1-9144-fd747fd9a2a5" name="Changes" comment="theVariable">
-      <change afterPath="$PROJECT_DIR$/src/main/ifAndFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/valueType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/theVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/theVariable.java" afterDir="false" />
-    </list>
+    <list default="true" id="55dad819-4a20-43d1-9144-fd747fd9a2a5" name="Changes" comment="valueType" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678971988239</updated>
       <workItem from="1678971989535" duration="2572000" />
-      <workItem from="1679008337950" duration="1482000" />
+      <workItem from="1679008337950" duration="2366000" />
     </task>
     <task id="LOCAL-00001" summary="project settings">
       <created>1678972060833</created>
@@ -113,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678973938287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="valueType">
+      <created>1679009908397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679009908397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +136,7 @@
     <MESSAGE value="project settings" />
     <MESSAGE value="myFirstJavaCode" />
     <MESSAGE value="theVariable" />
-    <option name="LAST_COMMIT_MESSAGE" value="theVariable" />
+    <MESSAGE value="valueType" />
+    <option name="LAST_COMMIT_MESSAGE" value="valueType" />
   </component>
 </project>
