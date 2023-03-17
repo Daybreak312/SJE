@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55dad819-4a20-43d1-9144-fd747fd9a2a5" name="Changes" comment="theVariable">
-      <change afterPath="$PROJECT_DIR$/src/main/theValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/theValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/theValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,7 +60,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.theValue">
+    <configuration name="theValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.theValue" />
+      <module name="SJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="valueType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.valueType" />
       <module name="SJE" />
@@ -75,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.theValue" />
         <item itemvalue="Application.valueType" />
       </list>
     </recent_temporary>
@@ -88,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678971988239</updated>
       <workItem from="1678971989535" duration="2572000" />
-      <workItem from="1679008337950" duration="3222000" />
+      <workItem from="1679008337950" duration="7614000" />
     </task>
     <task id="LOCAL-00001" summary="project settings">
       <created>1678972060833</created>
@@ -125,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679012894279</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="theVariable">
+      <created>1679021022038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679021022038</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
