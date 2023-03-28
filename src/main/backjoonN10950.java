@@ -1,3 +1,6 @@
+/* Backjoon n.10950
+N과 N 쌍의 두 수를 입력받고, 그 수를 더한 결과를 출력하는 프로그램. */
+
 package main;
 
 import java.util.*;

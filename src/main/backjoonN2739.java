@@ -1,3 +1,5 @@
+/* Backjoon n.2739
+정수를 입력받고, 그 정수의 구구단을 출력하는 프로그램.*/
 package main;
 
 import java.util.*;
