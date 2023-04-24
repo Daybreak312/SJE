@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55dad819-4a20-43d1-9144-fd747fd9a2a5" name="Changes" comment="theVariable">
+    <list default="true" id="55dad819-4a20-43d1-9144-fd747fd9a2a5" name="Changes" comment="my code">
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/backjoonN10992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/backjoonN20182.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/theValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/theValue.java" afterDir="false" />
     </list>
@@ -40,6 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2N663OC4RFJNxqyUyzZsHSXVI9D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,21 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/SJE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.theValue">
-    <configuration name="theValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.theValue" />
+}]]></component>
+  <component name="RunManager" selected="Application.backjoonN10992">
+    <configuration name="backjoonN10990" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.backjoonN10990" />
       <module name="SJE" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +81,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="valueType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.valueType" />
+    <configuration name="backjoonN10991" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.backjoonN10991" />
+      <module name="SJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backjoonN10992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.backjoonN10992" />
+      <module name="SJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backjoonN2523" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.backjoonN2523" />
+      <module name="SJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backjoonN2556" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.backjoonN2556" />
       <module name="SJE" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.theValue" />
-        <item itemvalue="Application.valueType" />
+        <item itemvalue="Application.backjoonN10992" />
+        <item itemvalue="Application.backjoonN10991" />
+        <item itemvalue="Application.backjoonN10990" />
+        <item itemvalue="Application.backjoonN2556" />
+        <item itemvalue="Application.backjoonN2523" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +152,22 @@
       <option name="presentableId" value="Default" />
       <updated>1678971988239</updated>
       <workItem from="1678971989535" duration="2572000" />
-      <workItem from="1679008337950" duration="7614000" />
+      <workItem from="1679008337950" duration="8230000" />
+      <workItem from="1679215944135" duration="1452000" />
+      <workItem from="1679230028339" duration="4700000" />
+      <workItem from="1679489493233" duration="7801000" />
+      <workItem from="1679833516090" duration="6755000" />
+      <workItem from="1679922268398" duration="38242000" />
+      <workItem from="1680519982194" duration="5898000" />
+      <workItem from="1680767983166" duration="99000" />
+      <workItem from="1680768204603" duration="13000" />
+      <workItem from="1680768495410" duration="5000" />
+      <workItem from="1680768678566" duration="37000" />
+      <workItem from="1680774580494" duration="5000" />
+      <workItem from="1681201473471" duration="751000" />
+      <workItem from="1681649301889" duration="12000" />
+      <workItem from="1681688115147" duration="588000" />
+      <workItem from="1682226004912" duration="2581000" />
     </task>
     <task id="LOCAL-00001" summary="project settings">
       <created>1678972060833</created>
@@ -147,7 +211,63 @@
       <option name="project" value="LOCAL" />
       <updated>1679021022038</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="theVariable">
+      <created>1679051120276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679051120276</updated>
+    </task>
+    <task id="LOCAL-00008" summary="my code">
+      <created>1679975127362</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679975127362</updated>
+    </task>
+    <task id="LOCAL-00009" summary="my code">
+      <created>1679997506117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679997506117</updated>
+    </task>
+    <task id="LOCAL-00010" summary="my code">
+      <created>1679998079326</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679998079326</updated>
+    </task>
+    <task id="LOCAL-00011" summary="my code">
+      <created>1679999972267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679999972267</updated>
+    </task>
+    <task id="LOCAL-00012" summary="my code">
+      <created>1680000126768</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680000126768</updated>
+    </task>
+    <task id="LOCAL-00013" summary="my code">
+      <created>1680097409419</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680097409419</updated>
+    </task>
+    <task id="LOCAL-00014" summary="my code">
+      <created>1680517388351</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680517388353</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +289,7 @@
     <MESSAGE value="myFirstJavaCode" />
     <MESSAGE value="valueType" />
     <MESSAGE value="theVariable" />
-    <option name="LAST_COMMIT_MESSAGE" value="theVariable" />
+    <MESSAGE value="my code" />
+    <option name="LAST_COMMIT_MESSAGE" value="my code" />
   </component>
 </project>
